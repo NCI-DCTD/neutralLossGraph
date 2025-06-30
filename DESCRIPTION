@@ -1,0 +1,20 @@
+Package: NeutralLossGraph
+Title: Tools for Annotating and Networking MS/MS Spectra
+Version: 0.1.0
+Authors@R: person("Your", "Name", email = "you@example.com", role = c("aut", "cre"))
+Description: Functions for annotating mass spectrometry features with adducts,
+    computing similarity between spectra, and building molecular networks.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    MSnbase,
+    stringr,
+    igraph,
+    parallel,
+    foreach,
+    doParallel,
+    stats,
+    tools,
+    utils
+RoxygenNote: 7.3.2
