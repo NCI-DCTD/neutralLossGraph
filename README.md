@@ -19,7 +19,7 @@ devtools::install_github("nci-dctd/neutralLossGraph")
 Load the package and run a test graph generation:
 
 ```r
-library(neutralLossGraph)
+library(NeutralLossGraph)
 graphMinalemine()
 ```
 
