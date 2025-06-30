@@ -1,6 +1,6 @@
-# 🧪 msannotator
+# 🧪 NeutralLossGraph
 
-**Neutral Loss Graph** is an R package for generating annotated metabolomics data graphs using shared neutral losses. It simplifies the creation of GraphML outputs from MS features for downstream visualization and analysis.
+**NeutralLossGraph** is an R package for generating annotated metabolomics data graphs using shared neutral losses. It simplifies the creation of GraphML outputs from MS features for downstream visualization and analysis.
 
 ---
 
