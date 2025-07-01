@@ -1,250 +1,538 @@
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-files
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files[1:20], outputGML='~/Desktop/package_test')
-msannotator::networkMGFs(files[1:20], outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', includeMS1=FALSE)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-msannotator::networkMGFs(files[1:20], outputGML='~/Desktop/package_test')
-msannotator::networkMGFs(files[20:50], outputGML='~/Desktop/package_test')
-msannotator::networkMGFs(files[50:100], outputGML='~/Desktop/package_test')
-msannotator::networkMGFs(files[50:80], outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files[50:80], outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files[50:80], outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files[50:80], outputGML='~/Desktop/package_test')
-msannotator::networkMGFs(files[50:80], outputGML='~/Desktop/package_test')
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test')
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', includeFragments = FALSE)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', includeFragments = FALSE, includeMS1 = FALSE)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', includeFragments = FALSE, includeMS1 = FALSE, cutoff = 0.7)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', includeFragments = FALSE, includeMS1 = FALSE, cutoff = 0.6)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', includeFragments = FALSE, cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-?graph.adjacency
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-?strsplit
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-strsplit('16241100034_D7_POS_QTOF_20241203_4:[M + Na]->16241100001_H11_POS_QTOF_20241209_1:[M + K]')
-strsplit('16241100034_D7_POS_QTOF_20241203_4:[M + Na]->16241100001_H11_POS_QTOF_20241209_1:[M + K]', "->")
-devtools::load_all()
-devtools::load_all()
-strsplit('16241100034_D7_POS_QTOF_20241203_4:[M + Na]->16241100001_H11_POS_QTOF_20241209_1:[M + K]', "->")
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-devtools::load_all()
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE)
-msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6)
-sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE); sys.time()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE); Sys.time()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6); Sys.time()
-devtools::load_all()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6); Sys.time()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeMS1 = FALSE); Sys.time()
-?networkMGFs
+head(node.66)
+matplot(t(node.66), type='line')
+library(ggplot2)
+node.66 %>% ggplot(aes(x=dose, y=response, group=cellname)) + geom_line()
+node.221 %>% ggplot(aes(x=dose, y=response, group=cellname)) + geom_line()
+metrics.df[440,]
+metrics.df[66,]
+metrics.df[221,]
+metrics <- future_lapply(1:nrow(som_model$codes[[1]]), #
+	function(x) { d.r = unlist(lapply(1:5, #
+		function(y) { #
+			response = som_model$codes[[1]][x,grepl(paste('_', y, sep=''), code_colnames, fixed=TRUE)]; #
+			d = abs((median(response) - 1) / 2)#
+			r = abs((max(response) - min(response))/2)#
+			return(list(d,r))#
+			} ));#
+#
+		vals = list()#
+		doses = d.r[seq(1, length(d.r), by=2)]#
+		responses = d.r[seq(2, length(d.r), by=2)]#
+#
+		vals$response = max(responses)#
+#
+		dose = which(responses == vals$response)#
+#
+		vals$toxicity = doses[dose]#
+#
+		vals$efficacy = 1- ((dose - 1) / 4)#
+#
+		return(unlist(vals))#
+	} )#
+metrics.df <- do.call(rbind, metrics)#
+write.csv(metrics.df, 'metrics.csv', row.names=FALSE)
+node.420 <- do.call(rbind, lapply(1:length(sixty), #
+		function(y) { #
+			response = som_model$codes[[1]][420,grepl(paste(sixty[y], '_', sep=''), code_colnames, fixed=TRUE)]; 			return(data.frame(dose = 1:5, response = response, cellname = sixty[y]))#
+			} ))
+write.csv(node.420, 'node_420.csv', row.names = FALSE)
+metrics.df[221,]
+metrics.df[420,]
+metrics.df[66,]
+metrics.df[201,]
+metrics.df[336,]
+node.336 <- do.call(rbind, lapply(1:length(sixty), #
+		function(y) { #
+			response = som_model$codes[[1]][336,grepl(paste(sixty[y], '_', sep=''), code_colnames, fixed=TRUE)]; 			return(data.frame(dose = 1:5, response = response, cellname = sixty[y]))#
+			} ))
+write.csv(node.336, 'node_336.csv', row.names = FALSE)
+save()
+head(data_comps_som)
+head(mapped$unit.classif)
+table(mapped$unit.classif)
+write.csv(table(mapped$unit.classif), 'mapped_comps.csv', row.names=FALSE)
+ls()
+library(devtools)
+devtools::load_all()
+devtools::load_all(path='packages/msannotator')
+rm(list = c("assignAdducts", "calculatePWDiff", "networkMGFs"))
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+install.packages('pkgload')
+devtools::load_all(path='packages/msannotator')
+library(pkgload)
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+packageVersion("rlang")#
+packageVersion("devtools")#
+packageVersion("pkgload")
+install.packages("remotes")  # if not already installed#
+remotes::install_version("rlang", version = "1.1.4")
+devtools::load_all(path='packages/msannotator')
+library(rlang)
+install.packages("remotes")  # Skip if already installed#
+remotes::install_version("rlang", version = "1.1.4")
+devtools::load_all(path='packages/msannotator')
+rm(list = c("assignAdducts", "calculatePWDiff", "networkMGFs"))
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+library(methods)
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+# Sample input text (as a character vector)#
+text <- "BEGIN IONS#
+FEATURE_ID=1#
+NAME=CNL#
+PEPMASS=155.1058#
+SCANS=2#
+RTINSECONDS=60#
+CHARGE=1+#
+MSLEVEL=2#
+10 1.10E+02#
+017.0266 3.90E+03#
+042.0218 1.10E+02#
+172.1324 1.00E+02#
+024.9952 1.20E+02#
+155.1058 2.10E+02#
+130.1106 1.10E+02#
+END IONS#
+#
+BEGIN IONS#
+FEATURE_ID=2#
+NAME=UNL1#
+PEPMASS=228.1699#
+SCANS=2#
+RTINSECONDS=60#
+CHARGE=1+#
+MSLEVEL=2#
+10 1.10E+02#
+186.1481 1.10E+02#
+201.1589 1.10E+02#
+203.1746 1.10E+02#
+228.1699 1.10E+02#
+END IONS#
+#
+BEGIN IONS#
+FEATURE_ID=3#
+NAME=UNL2#
+PEPMASS=351.2270#
+SCANS=2#
+RTINSECONDS=60#
+CHARGE=1+#
+MSLEVEL=2#
+10 1.10E+02#
+179.0946 1.10E+02#
+196.1212 1.10E+02#
+221.1164 1.10E+02#
+351.2270 1.10E+02#
+END IONS"#
+#
+# Step 1: Split the text into blocks between BEGIN and END#
+blocks <- unlist(strsplit(text, "BEGIN IONS\\s*|\\s*END IONS"))#
+blocks <- blocks[nzchar(blocks)]  # Remove empty elements#
+#
+# Step 2: Parse each block#
+parsed_blocks <- lapply(blocks, function(block) {#
+  lines <- strsplit(block, "\n")[[1]]#
+  lines <- trimws(lines[nzchar(lines)])#
+  # Separate metadata and spectra#
+  metadata_lines <- lines[grepl("=", lines)]#
+  spectrum_lines <- lines[!grepl("=", lines)]#
+  # Parse metadata#
+  metadata <- setNames(#
+    lapply(strsplit(metadata_lines, "="), function(x) x[2]),#
+    sapply(strsplit(metadata_lines, "="), function(x) x[1])#
+  )#
+  # Parse spectrum as numeric matrix#
+  spectrum <- do.call(rbind, lapply(spectrum_lines, function(line) {#
+    as.numeric(strsplit(line, "\\s+")[[1]])#
+  }))#
+  list(metadata = metadata, spectrum = spectrum)#
+})#
+#
+# View first parsed block#
+str(parsed_blocks[[1]])
+str(parsed_blocks[[2]])
+str(parsed_blocks[[1]])
+parsed_blocks[[2]]$metadata[["NAME"]]       # "UNL1"#
+parsed_blocks[[3]]$spectrum                 # Matrix of m/z and intensities
+length(parsed_blocks)
+str(parsed_blocks[[3]])
+parsed_blocks[[5]]$spectrum
+blocks <- unlist(strsplit(text, "BEGIN IONS\\s*|\\s*END IONS"))
+length(blocks)
+blocks[[1]]
+blocks[1]
+blocks[2]
+library(stringr)#
+#
+# Extract full blocks using regex with capture group#
+blocks <- str_match_all(text, "BEGIN IONS\\s*(.*?)\\s*END IONS")[[1]][,2]#
+#
+# Parse each block#
+parsed_blocks <- lapply(blocks, function(block) {#
+  lines <- strsplit(block, "\n")[[1]]#
+  lines <- trimws(lines[nzchar(lines)])#
+#
+  metadata_lines <- lines[grepl("=", lines)]#
+  spectrum_lines <- lines[!grepl("=", lines)]#
+#
+  metadata <- setNames(#
+    lapply(strsplit(metadata_lines, "="), function(x) x[2]),#
+    sapply(strsplit(metadata_lines, "="), function(x) x[1])#
+  )#
+#
+  spectrum <- do.call(rbind, lapply(spectrum_lines, function(line) {#
+    as.numeric(strsplit(line, "\\s+")[[1]])#
+  }))#
+#
+  list(metadata = metadata, spectrum = spectrum)#
+})#
+#
+# Check number of parsed blocks#
+length(parsed_blocks)  # 3
+blocks[3]
+blocks[1]
+blocks <- str_match_all(text, "BEGIN IONS\\s*(.*?)\\s*END IONS")
+blocks[[1]]
+blocks[[1]][,1]
+blocks[[1]][,2]
+blocks[[2]][,2]
+blocks[[1]][,2]
+head(text)
+# Sample input text (as a character vector)#
+text <- "BEGIN IONS#
+FEATURE_ID=1#
+NAME=CNL#
+PEPMASS=155.1058#
+SCANS=2#
+RTINSECONDS=60#
+CHARGE=1+#
+MSLEVEL=2#
+10 1.10E+02#
+017.0266 3.90E+03#
+042.0218 1.10E+02#
+172.1324 1.00E+02#
+024.9952 1.20E+02#
+155.1058 2.10E+02#
+130.1106 1.10E+02#
+END IONS#
+#
+BEGIN IONS#
+FEATURE_ID=2#
+NAME=UNL1#
+PEPMASS=228.1699#
+SCANS=2#
+RTINSECONDS=60#
+CHARGE=1+#
+MSLEVEL=2#
+10 1.10E+02#
+186.1481 1.10E+02#
+201.1589 1.10E+02#
+203.1746 1.10E+02#
+228.1699 1.10E+02#
+END IONS#
+#
+BEGIN IONS#
+FEATURE_ID=3#
+NAME=UNL2#
+PEPMASS=351.2270#
+SCANS=2#
+RTINSECONDS=60#
+CHARGE=1+#
+MSLEVEL=2#
+10 1.10E+02#
+179.0946 1.10E+02#
+196.1212 1.10E+02#
+221.1164 1.10E+02#
+351.2270 1.10E+02#
+END IONS"#
+#
+# Step 1: Split the text into blocks between BEGIN and END#
+blocks <- unlist(strsplit(text, "BEGIN IONS\\s*|\\s*END IONS"))#
+blocks <- blocks[nzchar(blocks)]  # Remove empty elements#
+#
+# Step 2: Parse each block#
+parsed_blocks <- lapply(blocks, function(block) {#
+  lines <- strsplit(block, "\n")[[1]]#
+  lines <- trimws(lines[nzchar(lines)])#
+  # Separate metadata and spectra#
+  metadata_lines <- lines[grepl("=", lines)]#
+  spectrum_lines <- lines[!grepl("=", lines)]#
+  # Parse metadata#
+  metadata <- setNames(#
+    lapply(strsplit(metadata_lines, "="), function(x) x[2]),#
+    sapply(strsplit(metadata_lines, "="), function(x) x[1])#
+  )#
+  # Parse spectrum as numeric matrix#
+  spectrum <- do.call(rbind, lapply(spectrum_lines, function(line) {#
+    as.numeric(strsplit(line, "\\s+")[[1]])#
+  }))#
+  list(metadata = metadata, spectrum = spectrum)#
+})#
+#
+# View first parsed block#
+str(parsed_blocks[[1]])
+nzchar(parsed_blocks[[1]])
+nzchar(parsed_blocks[[2]])
+parsed_blocks[[2]]
+nzchar(blocks[[2]])
+blocks[[2]]
+# Step 1: Split text by BEGIN and END IONS#
+blocks <- unlist(strsplit(text, "BEGIN IONS\\s*|\\s*END IONS"))#
+#
+# Step 2: Trim whitespace and remove empty blocks#
+blocks <- blocks[nzchar(trimws(blocks))]#
+#
+# Step 3: Parse each block#
+parsed_blocks <- lapply(blocks, function(block) {#
+  lines <- strsplit(block, "\n")[[1]]#
+  lines <- trimws(lines[nzchar(trimws(lines))])#
+#
+  metadata_lines <- lines[grepl("=", lines)]#
+  spectrum_lines <- lines[!grepl("=", lines)]#
+#
+  metadata <- setNames(#
+    lapply(strsplit(metadata_lines, "="), function(x) x[2]),#
+    sapply(strsplit(metadata_lines, "="), function(x) x[1])#
+  )#
+#
+  spectrum <- do.call(rbind, lapply(spectrum_lines, function(line) {#
+    as.numeric(strsplit(line, "\\s+")[[1]])#
+  }))#
+#
+  list(metadata = metadata, spectrum = spectrum)#
+})#
+#
+# Should be 3 blocks now#
+length(parsed_blocks)  # 3
+parsed_blocks[[2]]
+devtools::load_all(path='packages/msannotator')
+#' Parse MGF-style text into a list of metadata and spectra blocks#
+#'#
+#' This function extracts and parses individual blocks of mass spectrometry data#
+#' enclosed between `BEGIN IONS` and `END IONS` tags in MGF-style text. Each block#
+#' is split into named metadata and a numeric matrix of m/z and intensity values.#
+#'#
+#' @param text A single character string containing the entire MGF-style content.#
+#'#
+#' @return A list of length-N, where each element is a list with:#
+#'   - `metadata`: a named character vector of metadata fields (e.g., FEATURE_ID, PEPMASS)#
+#'   - `spectrum`: a numeric matrix with two columns: mz and intensity#
+#'#
+#' @examples#
+#' mgf_text <- "BEGIN IONS\nFEATURE_ID=1\nPEPMASS=123.4\n10 100\n20 200\nEND IONS"#
+#' parse_mgf_blocks(mgf_text)#
+#'#
+#' @export#
+parse_mgf_blocks <- function(text) {#
+  # Split the text by BEGIN/END tags#
+  blocks <- unlist(strsplit(text, "BEGIN IONS\\s*|\\s*END IONS"))#
+  # Remove whitespace-only and empty strings#
+  blocks <- blocks[nzchar(trimws(blocks))]#
+  # Parse each block#
+  parsed <- lapply(blocks, function(block) {#
+    lines <- strsplit(block, "\n")[[1]]#
+    lines <- trimws(lines[nzchar(trimws(lines))])#
+    # Separate metadata and spectrum lines#
+    metadata_lines <- lines[grepl("=", lines)]#
+    spectrum_lines <- lines[!grepl("=", lines)]#
+    # Parse metadata into named character vector#
+    metadata <- setNames(#
+      lapply(strsplit(metadata_lines, "="), function(x) x[2]),#
+      sapply(strsplit(metadata_lines, "="), function(x) x[1])#
+    )#
+    # Parse spectrum lines into numeric matrix#
+    spectrum <- do.call(rbind, lapply(spectrum_lines, function(line) {#
+      as.numeric(strsplit(line, "\\s+")[[1]])#
+    }))#
+    if (!is.null(spectrum)) {#
+      colnames(spectrum) <- c("mz", "intensity")#
+    }#
+    list(metadata = metadata, spectrum = spectrum)#
+  })#
+  parsed#
+}
+mgf_text <- "BEGIN IONS\nFEATURE_ID=1\nPEPMASS=123.4\n10 100\n20 200\nEND IONS"
+parse_mgf_blocks(mgf_text)
+?readChar
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+rm(list = c("parse_mgf_blocks"))
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
 roxygen2::roxygenise()
-?networkMGFs
-files<-list.files('/Volumes/DTP_NPSG/_Vitor/ConvertedMS/M23983/Fractions/MZmine/AlignedFeatureList',pattern='*.mgf',full.names=TRUE)
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.6, includeFragments = FALSE, includeMS1 = FALSE); Sys.time()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test', cutoff = 0.5, includeFragments = FALSE, includeMS1 = FALSE); Sys.time()
-devtools::load_all()
-neutralLossTest()
-devtools::load_all()
-neutralLossTest()
-devtools::load_all()
-neutralLossTest()
+roxygen2::roxygenise(package.dir='packages/msannotator')
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+parse_mgf_blocks(mgf_text)[[1]]$spectrum
+parse_mgf_blocks(mgf_text)[[1]]$spectrum['intensity']
+parse_mgf_blocks(mgf_text)[[1]]$spectrum[,'intensity']
+parse_mgf_blocks(mgf_text)[[1]]$spectrum$intensity
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+parse_mgf_blocks(mgf_text)[[1]]$spectrum
+parse_mgf_blocks(mgf_text)[[1]]$metadata
+parse_mgf_blocks(mgf_text)[[1]]$metadata$NAME
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+roxygen2::roxygenise(package.dir='packages/msannotator')
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+warnings()
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+devtools::load_all(path='packages/msannotator')
+graphMinalemine()
+roxygen2::roxygenise(package.dir='packages/msannotator')
+ls()
+node.476 <- do.call(rbind, lapply(1:length(sixty), #
+		function(y) { #
+			response = som_model$codes[[1]][476,grepl(paste(sixty[y], '_', sep=''), code_colnames, fixed=TRUE)]; 			return(data.frame(dose = 1:5, response = response, cellname = sixty[y]))#
+			} ))
+write.csv(node.476, 'node_476.csv', row.names = FALSE)
+node.112 <- do.call(rbind, lapply(1:length(sixty), #
+		function(y) { #
+			response = som_model$codes[[1]][112,grepl(paste(sixty[y], '_', sep=''), code_colnames, fixed=TRUE)]; 			return(data.frame(dose = 1:5, response = response, cellname = sixty[y]))#
+			} ))
+write.csv(node.112, 'node_112.csv', row.names = FALSE)
+node.251 <- do.call(rbind, lapply(1:length(sixty), #
+		function(y) { #
+			response = som_model$codes[[1]][251,grepl(paste(sixty[y], '_', sep=''), code_colnames, fixed=TRUE)]; 			return(data.frame(dose = 1:5, response = response, cellname = sixty[y]))#
+			} ))
+write.csv(node.251, 'node_251.csv', row.names = FALSE)
+node.261 <- do.call(rbind, lapply(1:length(sixty), #
+		function(y) { #
+			response = som_model$codes[[1]][261,grepl(paste(sixty[y], '_', sep=''), code_colnames, fixed=TRUE)]; 			return(data.frame(dose = 1:5, response = response, cellname = sixty[y]))#
+			} ))
+write.csv(node.261, 'node_261.csv', row.names = FALSE)
+dim(export)
+head(export)
+quit()
+roxygen2::roxygenise(package.dir='packages/neutralLossGraph')
+getwd()
+setwd('packages/NeutralLossGraph')
+getwd()
+roxygen2::roxygenise()
+roxygen2::roxygenise()
+file.create()
+file.create('.gitignore')
 devtools::load_all()
 graphMinalemine()
-graphMinalemine()
-devtools::load_all()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test'); Sys.time()
-devtools::load_all()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test'); Sys.time()
-devtools::load_all()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test'); Sys.time()
-devtools::load_all()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test'); Sys.time()
-devtools::load_all()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test'); Sys.time()
-devtools::load_all()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test'); Sys.time()
-devtools::load_all()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test'); Sys.time()
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test'); Sys.time()
-devtools::load_all()
-graphMinalemine()
-roxygen2::roxygenise()
-roxygen2::roxygenise()
-?graphMinalemine
-Sys.time(); msannotator::networkMGFs(files, outputGML='~/Desktop/package_test'); Sys.time()
+quit()
