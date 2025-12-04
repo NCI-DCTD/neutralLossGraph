@@ -101,11 +101,15 @@ networkMGFs <- function(files, cutoff = 0.5, outputGML = 'msms_network', include
         filter  <- (spectra[, 'intensity'] > 10 & spectra[, 'mz'] <= pepmass)
         spectra <- spectra[filter,]
 
-        # remove any NA mz values. sort by decreasing intensity and select the top 30 remaining values         
-        mz <- head(spectra[order(spectra[, 'intensity'], decreasing = TRUE), 'mz'], 30)
+        if(is.null(dim(spectra))){
+          mz <- spectra[1]
+        } else {
+            # remove any NA mz values. sort by decreasing intensity and select the top 30 remaining values         
+            mz <- head(spectra[order(spectra[, 'intensity'], decreasing = TRUE), 'mz'], 30)
+        }
 
         # final mz vector must contain at least 3 values
-        if (length(mz) > 3) {
+        if (length(mz) >= 3) {
           base_name <- tools::file_path_sans_ext(basename(file))
 
           # not all fields may be extracted from the mgf, but all that are
